@@ -9,7 +9,17 @@ const reasons = [
     "You are unique and special.",
     "You have the ability to create something beautiful.",
     "You have the power to make a difference in your community.",
-    "You have the opportunity to experience new things and make memories."
+    "You have the opportunity to experience new things and make memories.",
+    "You have a support system of family and friends who care about you",
+    "You have a future to look forward to",
+    "You have accomplishments and experiences to be proud of",
+    "You have the ability to make a positive impact on others",
+    "There is help and treatment available for mental health issues",
+    "You have the ability to overcome difficult challenges",
+    "You have things in your life that bring you joy and fulfillment",
+    "You have the opportunity to make positive changes in your life",
+    "You have the ability to learn and grow as a person",
+    "Life is precious and valuable, and everyone deserves the chance to live it to the fullest.",
 ];
 
 // Function to get random reason
